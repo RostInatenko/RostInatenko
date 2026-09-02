@@ -24,4 +24,4 @@ Since then I have been building full-stack, including the backends.
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/rostyslav-ihnatenko-a2a47520b/) · [Telegram](https://t.me/rihnat) · atridesss@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rostyslav-ihnatenko/) · [Telegram](https://t.me/rihnat) · atridesss@gmail.com
